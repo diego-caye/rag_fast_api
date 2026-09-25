@@ -7,3 +7,8 @@ venv/
 .idea/
 .vscode/
 postgres_data/
+
+# added: never commit real secrets
+.env
+__pycache__/
+*.pyc
